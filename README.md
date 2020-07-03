@@ -1,6 +1,6 @@
 # Frameworks - Bootstrap exercise
 
-[Click here to see exercises](https://basmahieu.github.io/framework-bootstrap/)
+https://basmahieu.github.io/framework-bootstrap/
 
 ---
 
