@@ -6,7 +6,6 @@
 .my-body {
   background-color: #d7e1ed;
   font-family: "Roboto", sans-serif;
-
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -17,9 +16,11 @@ h5 {
   font-weight: 400;
   text-transform: capitalize;
 }
-
-.card-deck {
-  margin-top: 24px;
+.container {
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .my-card {
